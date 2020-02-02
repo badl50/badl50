@@ -1,7 +1,7 @@
-# SheldoNSFW
+# Badl50
 Extremely basic Discord NSFW bot built with discord.js
 
-**Installion:**
+**Installion:*
 - Download the repo
 - Open cmd
 - Type cd bot_folder_directory
